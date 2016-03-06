@@ -1,0 +1,16 @@
+<html>
+	<head>
+		<title> Rishabh </title>
+	</head>
+	<body style="text-align:center">
+		<hl> WELCOME </hl>
+		<form action="https://www.google.com/search" method="get">
+			<input name="q" type="text"/>
+			<br/>
+			<br/>
+			<input type="submit" value="Search"/>
+		</form>
+		<br/>
+		By: Rishabh Aggarwal
+	</body>
+</html>
